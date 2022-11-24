@@ -5,7 +5,7 @@
 </div>
 
 ## Attention
-**介于成都的疫情动态，本 repo 严禁用于清水河校区出入用途，否则使用者个人承担相关法律后果。**
+**介于成都的疫情动态，本 repo 严禁用于沙河及清水河校区出入用途，否则使用者个人承担相关法律后果。**
 
 ## Try it
 [Demo](http://blog.simplenaive.cn/Real-Qingshui-Pass/)
